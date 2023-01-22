@@ -1,4 +1,4 @@
-,idade,sexo,dependentes,escolaridade,estado_civil,salario_anual,tipo_cartao,meses_de_relacionamento,qtd_produtos,iteracoes_12meses,meses_inativo_12meses,limite_credito,valor_transacoes_12meses,qtd_transacoes_12meses
+idade,sexo,dependentes,escolaridade,estado_civil,salario_anual,tipo_cartao,meses_de_relacionamento,qtd_produtos,iteracoes_12meses,meses_inativo_12meses,limite_credito,valor_transacoes_12meses,qtd_transacoes_12meses
 0,45,M,3,ensino medio,casado,$60K - $80K,blue,39,5,3,1,12691.51,1144.9,42
 1,49,F,5,mestrado,solteiro,menos que $40K,blue,44,6,2,1,8256.96,1291.45,33
 2,51,M,3,mestrado,casado,$80K - $120K,blue,36,4,0,1,3418.56,1887.72,20
